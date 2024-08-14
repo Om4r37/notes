@@ -1,7 +1,7 @@
-- [Java Basics](/notes/1.java)
-- [Object-Oriented Concepts](/notes/2.java)
-- [Collections & Generics](/notes/3.java)
-- [Java 8 new features](/notes/4.java)
+- [Java Basics](/notes/1.md)
+- [Object-Oriented Concepts](/notes/2.md)
+- [Collections & Generics](/notes/3.md)
+- [Java 8 new features](/notes/4.md)
 - [Design patterns](/notes/7.md)
 
 ### Additional Notes
