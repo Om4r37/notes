@@ -1,0 +1,22 @@
+- ArithmeticException: Arithmetic error, such as divide-by-zero.
+- ArrayIndexOutOfBoundsExceptio: Array index is out-of-bounds.
+- ArrayStoreExceptio: Assignment to an array element of an incompatible type.
+- ClassCastExceptio: Invalid cast.
+- IllegalArgumentExceptio: Illegal argument used to invoke a method.
+- IllegalMonitorStateExceptio: Illegal monitor operation, such as waiting on an unlocked thread.
+- IllegalStateExceptio: Environment or application is in incorrect state.
+- IllegalThreadStateExceptio: Requested operation not compatible with the current thread state.
+- IndexOutOfBoundsExceptio: Some type of index is out-of-bounds.
+- NegativeArraySizeException: Array created with a negative size.
+- NullPointerException: Invalid use of a null reference.
+- NumberFormatException: Invalid conversion of a string to a numeric format.
+- SecurityException: Attempt to violate security.
+- StringIndexOutOfBounds: Attempt to index outside the bounds of a string.
+- UnsupportedOperationException: An unsupported operation was encountered.
+- ClassNotFoundException: Class not found.
+- CloneNotSupportedException: Attempt to clone an object that does not implement the Cloneable interface.
+- IllegalAccessException: Access to a class is denied.
+- InstantiationException: Attempt to create an object of an abstract class or interface.
+- InterruptedException: One thread has been interrupted by another thread.
+- NoSuchFieldException: A requested field does not exist.
+- NoSuchMethodException: A requested method does not exist.
